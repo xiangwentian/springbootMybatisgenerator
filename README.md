@@ -1,0 +1,2 @@
+# springbootMybatisgenerator
+for test
